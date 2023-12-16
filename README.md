@@ -37,7 +37,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://github.com/ravenmatibag">
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ravenmatibag&show_icons=true&locale=en&theme=gotham" alt="ravenmatibag" /></p>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravenmatibag&theme=gotham" alt="ravenmatibag" /></p>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravenmatibag&theme=gotham" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravenmatibag&theme=gotham" height="180em" /></a>
 </div>
 <br></br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
