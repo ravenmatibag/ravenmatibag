@@ -6,6 +6,8 @@ hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravenmatibag&theme=gotham" alt="ravenmatibag" /></p>
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
