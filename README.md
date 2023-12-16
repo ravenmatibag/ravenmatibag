@@ -27,8 +27,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenmatibag&layout=compact&theme=" alt=ravenmatibag />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ravenmatibag&show_icons=true&locale=en&theme=default" alt="ravenmatibag" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ravenmatibag&theme=" alt="ravenmatibag" /></p>
