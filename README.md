@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h3 align="center">Hi 👋, I'm Raven Matibag</h3>
 <h3 align="center">Computer Engineer 💻</h3>
-<h3 align="center">👉<a href="https://ravenmatibag.github.io/portfolio/" target="__blank" rel="noreferrer" >WEBSITE</a>👈</h3>
+<h3 align="center">👉<a href="https://ravenmatibag.github.io/portfolio/" target="_blank" rel="noopener noreferrer">WEBSITE</a>👈</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravenmatibag&label=Profile%20views&color=0e75b6&style=flat" alt="ravenmatibag" /> </p>
 A Computer Engineering student, self-taught web developer and a ui/ux designer from Philippines. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
