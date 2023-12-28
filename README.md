@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h3 align="center">Hi 👋, I'm Raven Matibag</h3>
 <h3 align="center">Computer Engineer 💻</h3>
 <h3 align="center">👉<a href="https://ravenmatibag.github.io/portfolio/" target="_blank" rel="noopener noreferrer">WEBSITE</a>👈</h3>
