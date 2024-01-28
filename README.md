@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Raven Matibag</h3>
-<h3 align="center">Computer Engineer 💻</h3>
+<h3 align="center">Computer Engineer Student💻</h3>
 <h3 align="center">👉<a href="https://ravenmatibag.github.io/portfolio/" target="_blank" rel="noopener noreferrer">WEBSITE</a>👈</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravenmatibag&label=Profile%20views&color=0e75b6&style=flat" alt="ravenmatibag" /> </p>
